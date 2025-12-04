@@ -1,0 +1,1 @@
+Welcome to dieGiesskanne's Advent of Code 2025!
