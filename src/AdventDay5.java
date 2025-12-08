@@ -11,7 +11,7 @@ public class AdventDay5 {
     public static void main(String[] args) {
         System.out.println("Hello, Advent of Code Day 5!");
         ReadResult rr = readLinesSplitByEmpty();
-        System.out.println(findSpoiledIngredients(rr));
+        //System.out.println(findSpoiledIngredients(rr));
         System.out.println(findFreshIngredientsCount(rr));
     }
 
